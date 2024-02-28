@@ -1,5 +1,6 @@
-HR-Analytics
-Problem statement:
+**HR-Analytics**
+
+**Problem statement:**
 
 Our client is a large MNC and they have 9 broad verticals across the organisation. One of the problem our client is facing is around identifying the right people for promotion (only for manager position and below) and prepare them in time. Currently the process, they are following is:
 
@@ -12,7 +13,7 @@ For above mentioned process, the final promotions are only announced after the e
 They have provided multiple attributes around Employee's past and current performance along with demographics. Now, the task is to predict whether a potential promotee at checkpoint in the test set will be promoted or not after the evaluation process.
 
 
-Dataset Description
+**Dataset Description**
 
 1. employee_id: Unique ID for employee
 2. department: Department of employee
